@@ -1,6 +1,6 @@
 <?php
 
-require_once "../src/Person.php";
+require_once __DIR__."/../src/Person.php";
 
 class BlogTest extends \PHPUnit_Framework_TestCase
 {
