@@ -1,4 +1,4 @@
 ci_test
 =======
 
-https://travis-ci.org/naoyes/ci_test.svg?branch=master
+<img src="https://travis-ci.org/naoyes/ci_test.svg?branch=master">
