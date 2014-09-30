@@ -7,6 +7,6 @@ class BlogTest extends \PHPUnit_Framework_TestCase
     public function testSay()
     {
         $person = new Person();
-        $this->assertEquals('hello?', $person->say());
+        $this->assertEquals('hello', $person->say());
     }
 }
